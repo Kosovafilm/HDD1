@@ -128,7 +128,28 @@ Peermbajtja e HDD1 (Kosovafilm&amp; AQSHF)
     </ul>
   </li>
 
-  
+<li>D:\Kosovafilm_PREMIERE_PROJECTS
+    <ul>
+      <li>ERA_PROJEKT</li>
+      <li>GJURME PROJEKT</li>
+      <li>LEPURI PROJEKT</li>
+      <li>Njeriu prej dheu PROJEKT</li>
+      <li>PROKA Projekt</li>
+      <li>Njeriu prej dheu PROJEKT\Njeriu HD</li>
+    </ul>
+  </li>
+
+  <li>D:\KOSOVAFILM_SCREENERS
+    <ul>
+      <li>PertejRRuges_SCREENER</li>
+      <li>EraDheLisi_HD</li>
+      <li>GjurmeTeBardha HD</li>
+      <li>Kukumi_HD2</li>
+      <li>Kur pranvera vonohet HD</li>
+      <li>Lepuri HD_1080</li>
+      <li>Lepuri_1080p_x264_LOW</li>
+      <li>Njeriu HD</li>
+      <li>Proka HD</li>  
     </ul>
   </li>
 </ul>
